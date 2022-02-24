@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>More joyfull nevves from Hvll being the happiest tydings that ever came to London, set in a letter from Sir Iohn Hotham and read in the House of Commons upon Monday last, with the answer of the the House of Commons to the said letter. Likewise his Majesties letter to the queene in Holland, intercepted by the Earl of Warwick, and read in the House of Comemons [sic] upon Saturday, Iuly 30. and the ioyfull resolution of the Scots, concerning the forces raised by his Majesty. Hen. Elsing. Cler. Parl. D. Com.</title>
+            <title>Proceedings. 1642.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51342</idno>
+            <idno type="STC">Wing M2704A</idno>
+            <idno type="STC">ESTC R213886</idno>
+            <idno type="EEBO-CITATION">99826142</idno>
+            <idno type="PROQUEST">99826142</idno>
+            <idno type="VID">30534</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51342)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30534)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1798:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>More joyfull nevves from Hvll being the happiest tydings that ever came to London, set in a letter from Sir Iohn Hotham and read in the House of Commons upon Monday last, with the answer of the the House of Commons to the said letter. Likewise his Majesties letter to the queene in Holland, intercepted by the Earl of Warwick, and read in the House of Comemons [sic] upon Saturday, Iuly 30. and the ioyfull resolution of the Scots, concerning the forces raised by his Majesty. Hen. Elsing. Cler. Parl. D. Com.</title>
+                  <title>Proceedings. 1642.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+                  <author>Hotham, John, Sir, d. 1645 Jan. 2, attributed name.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>August 2. Printed for J. Wels,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint place from Wing.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Does not in fact contain Hotham's letter, the reply of Parliament, or a copy of the King's letter, but only reports on these.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Hotham, John, --  Sir, d. 1645 Jan. 2 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament. --  House of Commons.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Hull (England) --  History --  Siege, 1643 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30534:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <p>MORE JOYFULL NEWES FROM HVLL Being the Happieſt Tydings that ever came to <hi>London,</hi> ſet in a Letter from Sir <hi>Iohn Hotham</hi> and read in the Houſe of Commons upon Monday laſt.</p>
+            <p>With the Anſwer of the Houſe of Commons to the ſaid Letter.</p>
+            <p>Likewiſe His Majeſties Letter to the Queene in Holland, intercepted by the Earl of Warwick, and read in the Houſe of Comemons upon Saturday, Iuly 30. And the Ioyfull Reſolution of the Scots, con<g ref="char:EOLhyphen"/>cerning the Forces raiſed by his Majeſty.</p>
+            <p>Hen. Elſing. Cler. Parl. D. Com.</p>
+            <p>
+               <hi>Auguſt</hi> 2. Printed for <hi>J. Wels,</hi> 1642.</p>
+            <pb facs="tcp:30534:2"/>
+            <!-- PDF PAGE 17 -->
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:30534:2"/>
+            <!-- PDF PAGE 17 -->
+            <head>Better and Better NEVVES FROM HULL; Being the happieſt and Joyfulleſt Ty<g ref="char:EOLhyphen"/>dings, that ever came to <hi>London.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>RVTH is the Daughter of Time, and Experience the beſt School-maſter, who hath long ſince taught many Men and States, the ſad and wofull effects of an half-done work, and thoſe Convulſions, and renting Pains which the Body of Great Britain now ſhewes, that the Ill Humours and Obſtructions, and not yet fully purged nor diſſolved.</p>
+            <p>God will have a through work done, if in<g ref="char:EOLunhyphen"/>ſtead
+<pb facs="tcp:30534:3"/>
+               <!-- PDF PAGE 18 -->of redreſſing Evills, wee thinke to to tranſ<g ref="char:EOLhyphen"/>ſeat all by removing of perſons, and not things, well may wee buſh our Troubles for a ſeaſon, but they will return with a greater violence; for beleeve it, let us flatter our ſelves as we pleaſe, any ſighted Eye may ſee, that although we think we have now paſſed ths Equinoctiall and Straf<g ref="char:EOLhyphen"/>fordian Line, and ſeeme to have gone beyond Canterburie.</p>
+            <p>Yet their Faction, and their undermining A<g ref="char:EOLhyphen"/>gents (of all the Religions) grow daily more and more powerfull, and no doubt do labour an ex<g ref="char:EOLhyphen"/>tirpation of all Parliaments, and men which will not think, ſay and ſwear to their Opinions and Practiſes.</p>
+            <p>But we haue friends in the North, that will not ſuffer theſe perſons to remaine any longer here neither will they ſuffer true Religion to be beaten down; but is Reſolved to finiſh the work which he hath for merly begun</p>
+            <p>Whereupon they having taken into conſide<g ref="char:EOLhyphen"/>ration the proceedings of the Cavaleers, which they conceive to be the Oppoſers of true Reli<g ref="char:EOLhyphen"/>gion, and the occaſion of theſe Diſtempers which hath now crept into the Bowels of this didreſſed Kingdom, hath ſet down their full Reſolution in theſe enſuing particulars.</p>
+            <list>
+               <item>1. <hi>THat they are Reſolved to maintain Gods true Religion againſt all Op<g ref="char:EOLhyphen"/>poſers whatſoever, and th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> they will
+<pb facs="tcp:30534:3"/>
+                     <!-- PDF PAGE 18 -->ſpend their dear<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt Blo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d in the mainte<g ref="char:EOLhyphen"/>nance thereof.</hi>
+               </item>
+               <item>2. <hi>That they are Reſolved to aſſiſt His Sacred Maieſty and the High Court of Par<g ref="char:EOLhyphen"/>liament, againſt the Diſturbers of the Peace of this Kingdome.</hi>
+               </item>
+               <item>3. <hi>That they will adventure and ſpend their lives and fortunes, in the Defence of His Maieſties Prerogative, the Priviledges of Parliament, the liberty of the Subiect, and the Laws of the Realm.</hi>
+               </item>
+            </list>
+            <p>Theſe fore-going particulars, are the Propoſitions and Reſolution of our well-affected Brethren in <hi>Scotland,</hi> wher<g ref="char:EOLhyphen"/>in they do declare their love and affe<g ref="char:EOLhyphen"/>ction to this Kingdom, being likewiſe Reſolved to aſſiſt the King and Parlia<g ref="char:EOLhyphen"/>ment againſt the Cavaleers, who com<g ref="char:EOLhyphen"/>mit many Outrages againſt the Inhabi<g ref="char:EOLhyphen"/>tants in divers Counties, contrary to his Majeſties Command.</p>
+            <p>And will to the uttermoſt of their power, riaſe a certain Number of men, for the preſervation of the Peace of this Kingdom.</p>
+            <div type="part">
+               <pb facs="tcp:30534:4"/>
+               <!-- PDF PAGE 19 -->
+               <head>Joyfull Newe from <hi>Hull.</hi>
+               </head>
+               <p>VPon Monday laſt there was letters read in the Audience of both Hou<g ref="char:EOLhyphen"/>ſes, that came from Sir <hi>John Hotham,</hi> wherin he declared his happy victory, which he had obtained againſt the Ca<g ref="char:EOLhyphen"/>valeers, and after ſome 3. or 4. hours skirmiſh, they were forced to fly, ſlaying a great number of them, the Lord <hi>Rich</hi> being likewiſe dangerouſly wounded, and the Earl of <hi>Lindſey</hi> were alſo hurt, and alſo intimating, how that the ſhips which the Earl of <hi>Warwick</hi> ſent to him do ſtand him in great ſtead, and have had many skirmiſhes with the Cavaleers who had fortified themſelves at <hi>Paul,</hi> but after ſome fight, they bate down the Fortifications, and made the Cava<g ref="char:EOLhyphen"/>leers to flye.</p>
+               <pb facs="tcp:30534:4"/>
+               <!-- PDF PAGE 19 -->
+               <p>Both Houſes having ratd the afore<g ref="char:EOLhyphen"/>ſaid Leettes, after ſome Debate therup<g ref="char:EOLhyphen"/>on, returned this Anſwer to Sir <hi>John Hotham,</hi> That for his good ſervice which he hath performed lately, they give him much thanks, being joyfull to heare of his happy Proceedings, inciting him to the continuance of the Parliaments con<g ref="char:EOLhyphen"/>fidence.</p>
+               <p>This is the effect and ſubſtance of the Parliaments Anſwer to Sir <hi>John Ho<g ref="char:EOLhyphen"/>thams</hi> Letter.</p>
+               <p>There was alſo a Report made at a Conference to the Lords, by the Earl of <hi>Eſsex,</hi> that he had received Letters from the Earl of <hi>Warwicke,</hi> intimating that he had intercepted a packet of let<g ref="char:EOLhyphen"/>ters at the Sea, which were going to the Queen from his Majeſty; which was to this effect.</p>
+               <p>That his Majeſty deſired her to ſend over thoſe things he ſent for, and to be carefull therein, informing her alſo of his late Proceedings, and how confident he is of obtaining <hi>Hull,</hi> and that he hath
+<pb facs="tcp:30534:5" rendition="simple:additions"/>
+                  <!-- PDF PAGE 20 -->ſo won the hearts of his Subjects, that there are ſcarce four in a County of a contrary mind.</p>
+               <p>The aforeſaid particulars concerning his Majeſty and his Royall conſort the Queen, was read in the Houſe of Com<g ref="char:EOLhyphen"/>mons upon Saturday laſt, with many more letters, but of no great conſe<g ref="char:EOLhyphen"/>quence, being intercepted by the Earl of <hi>Warwicke,</hi> and by him ſent to the Right Honourable, the Earl of <hi>Eſsex,</hi> Lord Ge<g ref="char:EOLhyphen"/>nerall of the Army, now ſetting forth of his Majeſty, the Parliament, and King<g ref="char:EOLhyphen"/>dome. God of his great mercy protect him from all thoſe Blood-ſucking Par<g ref="char:EOLhyphen"/>ties, that ſeeks the extirpation and Ru<g ref="char:EOLhyphen"/>ine of the true Proteſtant Profeſſion, and laws of the land.</p>
+               <closer>
+                  <signed>Ordered that this be printed and publiſhed. John Brown Cler. Par<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</signed>
+               </closer>
+               <pb facs="tcp:30534:5"/>
+               <!-- PDF PAGE 20 -->
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
